@@ -35,3 +35,13 @@
   flex-flow: column wrap; /*Uni as duas linhas de comando acima comentadas*/
   height: 260px;
 }
+
+.conteudoPrincipal-cursos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.conteudoPrincipal-cursos-link {
+  width: 23%;
+  margin-bottom: 1%;
+}
